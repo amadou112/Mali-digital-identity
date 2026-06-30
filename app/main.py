@@ -3,8 +3,8 @@ import pandas as pd
 from pathlib import Path
 
 st.set_page_config(
-    page_title="ML Mali Digital Identity",
-    page_icon="🇲🇱",
+    page_title="Mali Digital Identity",
+    page_icon="🆔",
     layout="wide"
 )
 
