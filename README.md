@@ -74,6 +74,6 @@ GitHub integration
 Dependency management with requirements.txt
 Continuous updates through Git version control
 
-**🌟 Project Goal
+**🌟 Project Goal**
 
 The goal of this project is to demonstrate how AI can modernize digital identity management by making document retrieval, verification, and citizen information access faster, more accurate, and more accessible. It also serves as a portfolio project showcasing practical skills in AI, machine learning, document intelligence, and enterprise application development.
